@@ -1,0 +1,19 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    text-align: center;
+ font-family:  'Roboto', sans-serif;
+ }
+
+button{
+    height: 30px;
+    color: bisque;
+    background-color: black;
+    border-color: red;
+    cursor: pointer;
+}
+
+#juan{
+    color: green;
+}
